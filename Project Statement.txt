@@ -1,0 +1,9 @@
+Project name: Backroom Inventory
+Vision: Create Backroom trecking for inventory in thr IT Department
+Mission statement:Create an Inventory tracking system with an easy to use form and real time inventroy tracking. 
+Both employees and manager Have access to the complete profiles and move Inventory in stages through easy communication tactics.
+Success Criteria:
+Complete the comprehensive database by 9.22.2022.
+Management should be able to see On Hand and status of inventroy.
+Employees should be able to update status through webapp database.
+Paricipants: Forrest

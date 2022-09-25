@@ -1,0 +1,7 @@
+User(User_ID, Emp_ID, Name_first, Name_last) 
+PCWorkstation(PC_ID, Serial_Number, PC_Type, Brand, Condition, Business_Unit)
+Tablet_Laptop(Laptop_ID, Serial_Number,Mdevice_brand, Mdevice_type, Condition,Business_Unit)
+Phone(Phone_ID, Serial_Number,Phone_Brand, Condition,Business_Unit)
+Cable(Cable_ID, Type, length, Brand, Pwr_Supply{yes/no}, Condition)
+RepaiParts(RPart_ID, Type, Brand, Condition, Business_Unit)
+Condition(Condition_ID(Id), Condition,Condition_Code)

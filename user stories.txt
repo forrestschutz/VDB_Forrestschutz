@@ -1,0 +1,17 @@
+Persona 1: 
+Manager Dan, that orders frequently doesn't know where working stock levels for It department. He thinks the backroom is a mess and want to put in order. 
+Persona 2:
+Chris an Employee Doest know what equipment works or how much is in stock when pulling digital equipment for new new deployments and repairs. 
+
+User stories
+Story 1  
+As a manager, I wan to tknow how many untits of PC, Laptops, Cell phones, cables, and repair parts are in stock.
+Story 2 
+As a manager(or higher) I have to budget to buy digital devices, cable, and repair parts and need real counts for justification. 
+Story 3 
+As a manager The backroom has no inventory counts, I would like to be able to approve customer projects based on real inventory. 
+Story 4
+Employees want to be able to repair broken stock and put back in inventory for thier use but don't know how much is broken or ready to deploy.
+Story 5
+As an employee I want to be able to have units, parts and accessories on hand for repairs and deployments. 
+
